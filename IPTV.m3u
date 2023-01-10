@@ -887,3 +887,37 @@ http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/ktxjx8m/8000000/mnf
 http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/rmzy8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="85" tvg-name="电竞天堂" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/dianjingtiantang.png" group-title="BesTV",BesTV电竞天堂
 http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/djtt8m/8000000/mnf.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼电影",斗鱼电影01
+http://tc-tct.douyucdn2.cn/dyliveflv1a/3637778raLSXdOdu.flv?wsAuth=1ea1a300d226ec1067c82df37a1e6ef5&token=cpn-androidmpro-0-3637778-8c089871434b93445163ba4dfd3714568979c1778d2e14df&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼电影",斗鱼电影02
+http://epg.112114.xyz/douyu/6566671
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼电影",斗鱼电影03
+http://diyp.112114.xyz/douyu/2793084
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼电影",斗鱼电影04
+http://tc-tct.douyucdn2.cn/dyliveflv1a/20415rnWbjg6Ex1K.flv?wsAuth=5098901b40bc7b87b4eed18509f89245&token=cpn-androidmpro-0-20415-b6774b3b3249db178d68e54e4be54bf1ca391679b3fb2ffa&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼电影",斗鱼电影05
+http://tc-tct.douyucdn2.cn/dyliveflv1/85894rmovieChow_2000.flv?wsAuth=b441d03c2310a1e3cd6b3dcb48a2f9af&token=cpn-androidmpro-0-85894-a3575d938a4aa3093e01c22a7da85938354a7f4d76d4f5ee&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼电影",斗鱼电影06
+http://epg.112114.xyz/douyu/8945323
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼电影",斗鱼电影07
+http://epg.112114.xyz/douyu/310926
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼电影",斗鱼电影08
+http://epg.112114.xyz/douyu/9292499
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼电影",斗鱼电影09
+http://diyp.112114.xyz/douyu/434971
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼电影",斗鱼电影10
+http://diyp.112114.xyz/douyu/74374
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼电影",斗鱼电影11
+http://diyp.112114.xyz/douyu/96577
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼电影",斗鱼电影12
+http://diyp.112114.xyz/douyu/2436390
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼电影",斗鱼电影13
+http://epg.112114.xyz/douyu/5033502
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼电影",斗鱼电影14
+http://epg.112114.xyz/douyu/431460
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼电影",斗鱼电影15
+http://epg.112114.xyz/douyu/4246519
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼电影",斗鱼电影16
+http://epg.112114.xyz/douyu/4549169
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼电影",斗鱼电影17
+http://epg.112114.xyz/douyu/508118
