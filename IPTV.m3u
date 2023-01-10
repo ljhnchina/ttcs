@@ -45,7 +45,7 @@ http://124.232.233.15:6610/000000001001/201600020003/1400.m3u8?IASHttpSessionId=
 http://124.232.233.15:6610/000000001001/201600020002/1400.m3u8?m3u8_level=2
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="湖南频道",湖南娱乐
 http://124.232.233.15:6610/000000001001/201600020004/1400.m3u8?IASHttpSessionId=OTT1241220230104132259216865&m3u8_level=2
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="湖南频道",湖南爱晚
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="湖南频道",湖南公共
 http://124.232.233.15:6610/000000001001/201600020007/1400.m3u8?m3u8_level=2
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="湖南频道",湖南电视剧
 http://124.232.233.15:6610/000000001001/201600020006/1400.m3u8?m3u8_level=2
